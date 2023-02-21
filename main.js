@@ -1,4 +1,8 @@
-console.log("1");
-console.log("2");
-console.log("3");
+let a = 10;
+let b = 15;
+
+
+
+let x =5, y=6, z=7;
+console.log("Tong la:",x,y,z);
 
